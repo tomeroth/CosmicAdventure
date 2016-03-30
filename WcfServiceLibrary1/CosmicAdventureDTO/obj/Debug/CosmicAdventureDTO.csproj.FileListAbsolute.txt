@@ -1,0 +1,5 @@
+c:\users\tomek\documents\visual studio 2015\Projects\WcfServiceLibrary1\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.dll
+c:\users\tomek\documents\visual studio 2015\Projects\WcfServiceLibrary1\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.pdb
+c:\users\tomek\documents\visual studio 2015\Projects\WcfServiceLibrary1\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2015\Projects\WcfServiceLibrary1\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.dll
+c:\users\tomek\documents\visual studio 2015\Projects\WcfServiceLibrary1\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.pdb
